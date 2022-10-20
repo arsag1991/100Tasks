@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_margin="20dp"
+    android:backgroundTint="#3A3939"
+    app:cardCornerRadius="10dp"
+    tools:context=".InfoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/tvInfo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingStart="8dp"
+        android:paddingTop="2dp"
+        android:paddingEnd="5dp"
+        android:text="@string/hello_blank_fragment"
+        android:textColor="#FFE503"
+        android:textSize="16sp" />
+
+</androidx.cardview.widget.CardView>

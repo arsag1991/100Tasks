@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">100Tasks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="byte_"><b>Byte: хранит целое число от -128 до 127 и занимает 1 байт</b></string>
+    <string name="short_"><b>Short: хранит целое число от -32 768 до 32 767 и занимает 2 байта</b></string>
+    <string name="int_"><b>Int: хранит целое число от -2 147 483 648 (-231) до 2 147 483 647 (231 - 1) и занимает 4 байта</b></string>
+    <string name="long_"><b>Long: хранит целое число от –9 223 372 036 854 775 808 (-263) до 9 223 372 036 854 775 807 (263-1) и занимает 8 байт</b></string>
+    <string name="float_"><b>Float: хранит число с плавающей точкой от -3.4*1038 до 3.4*1038 и занимает 4 байта</b></string>
+    <string name="double_"><b>Double: хранит число с плавающей точкой от ±5.0*10-324 до ±1.7*10308 и занимает 8 байта.</b></string>
+    <string name="boolean_"><b>Boolean: может хранить одно из двух значений: true (истина) или false (ложь).</b></string>
+    <string name="char_"><b>Char: представляет отдельный символ, который заключается в одинарные кавычки.</b></string>
+    <string name="string_"><b>String: представляет последовательность символов, заключенную в двойные кавычки, либо в тройные двойные кавычки.</b></string>
+
+
+</resources>
